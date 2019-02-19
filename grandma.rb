@@ -1,4 +1,5 @@
 grandma = "I love you grandma!"
 
 if grandma == "Huh?! Speak up Sonny!".upcase
- puts 
+ puts "grandson speaks up."
+ 

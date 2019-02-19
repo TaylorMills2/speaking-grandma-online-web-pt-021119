@@ -1,3 +1,3 @@
-grandma = "I love you too pumpkin!"
+grandma = "I love you grandma!"
 
 if grandma == "Huh?! Speak up Sonny!".upcase

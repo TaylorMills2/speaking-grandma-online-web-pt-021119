@@ -1,4 +1,4 @@
-grandma = "I love you grandma!"
+Sonny = "I love you grandma!"
 
 if grandma == "Huh?! Speak up, Sonny!".upcase
  puts "Sonny speaks up."
